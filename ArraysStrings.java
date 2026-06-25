@@ -14,6 +14,8 @@ public class ArraysStrings
         String word3 = "ab";
         String word4 = "pqrs";
         System.out.println("ab + pqrs = " + mergeAlternately2(word3, word4));
+
+        
     }
 
     // 1768. Merge Strings Alternately
